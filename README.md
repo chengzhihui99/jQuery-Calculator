@@ -7,5 +7,5 @@ jQuery做的一个简易计算器
 # 在线访问地址
 [点击访问狗哥简易计算器](https://chengzhihui99.github.io/jQuery-Simple-Calculator/)
 
-#总结一下
+# 总结一下
 做一个计算器练习一个逻辑关系，解决了常见的一些bug，还有一些bug等待修复.....
